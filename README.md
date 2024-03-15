@@ -1,5 +1,8 @@
 # persona
 
+## What are the highlighs from this project? 
+This data analysis focused on a cohort analysis, using a comprehensive demographic dataset, with the intension to create key personas that fits a particular condition. By performing exploratory data analysis and studying all customers through different cohorts, I created the top three personas who are best fit for the new marketing strategy.   
+
 ## What to expect in this repository? 
 A selection of customer demographic data, which includes a unique ID number, first name, date of birth, monthly income, and more.
 
