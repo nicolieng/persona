@@ -20,7 +20,7 @@ This analysis resulted in actionable recommendations to guide the company’s pe
 
 These insights provide a focused audience profile and product strategy to maximize campaign relevance, reach, and conversion.
 
-## What to expect in this repository? 
+## What to expect in this repo? 
 1. A selection of customer demographic data, which includes a unique ID number, first name, date of birth, monthly income, and more.
 
 2. A jupyter notebook to showcase the coding scripts and outcomes of data cleaning and manipulation, descriptive summary statistics, exploratiry data analysis, and data visualiozation using the provided dataset. 
