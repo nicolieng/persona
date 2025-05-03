@@ -3,7 +3,7 @@
 ## Problem Statement 
 The company is launching a new marketing campaign for pet insurance, help us create the "Personas" you see fit to help brand marketing. 
 
-## What are the highlights from this project? 
+## Project Highlights
 This analysis centers on cohort-based exploration of a rich demographic dataset to uncover key customer insights. Through targeted EDA and segmentation, I identified the top three personas that align best with the upcoming pet insurance marketing campaign.  
 
 ## Outcome
