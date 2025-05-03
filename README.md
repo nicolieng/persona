@@ -1,4 +1,4 @@
-# persona
+# persona 👥 
 
 ## Problem Statement 
 The company is launching a new marketing campaign for pet insurance, help us create the "Personas" you see fit to help brand marketing. 
