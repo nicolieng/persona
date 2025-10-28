@@ -4,7 +4,7 @@
 The company is launching a new marketing campaign for pet insurance, help us create the "Personas" you see fit to help brand marketing. 
 
 ## Project Highlights
-This analysis centers on cohort-based exploration of a (mostly) rich demographic dataset to uncover key customer insights. Through targeted EDA and segmentation, I identified the top three personas that align best with the upcoming pet insurance marketing campaign.  
+This analysis centers on cohort-based exploration of an almost rich demographic dataset to uncover key customer insights. Through targeted EDA and segmentation, I identified the top three personas that align best with the upcoming pet insurance marketing campaign.  
 
 ## Outcome
 This analysis resulted in actionable recommendations to guide the company’s pet insurance marketing strategy:
