@@ -28,4 +28,4 @@ These insights provide a focused audience profile and product strategy to maximi
 3. A slide deck to show a completed Demographic analysis done from the perspective of four different cohorts: Gender, Income, Age, Market, as well as the personas identified as best targets for the new campaign.
 
 ## What is the source of the data?
-Based on anonymized real-world data from a B2C company...
+This analysis is based on anonymized real-world data from a consumer-facing company.
